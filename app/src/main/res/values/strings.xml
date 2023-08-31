@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PruebaTP</string>
+    <string name="text1">Escriba el primer texto a comparar aqui</string>
+    <string name="text2">Escriba el segundo texto a comparar aqui</string>
+    <string name="compare">Comparar textos</string>
+    <string name="result">- Resultado -</string>
+</resources>
